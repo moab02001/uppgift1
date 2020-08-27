@@ -1,0 +1,11 @@
+p{ /* typselektor*/
+    color:yellow;
+	
+}
+p, h1h2{/* gruppselektor*/
+     font-size: 100px;	
+}
+body.bg-black{/* klasselektor*/
+	background-color: black;
+}
+
